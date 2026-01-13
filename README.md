@@ -1,6 +1,6 @@
 # 🏍️ Bengkel Paskistunes
 
-## 📖 Storytelling Proyek
+## 📖 Proyek
 
 Berawal dari pengalaman sederhana yang sering dialami oleh banyak pengendara motor: **sulit mencari bengkel terpercaya, antrean servis yang tidak jelas, dan keterbatasan informasi suku cadang**. Tidak jarang pengguna harus berpindah dari satu bengkel ke bengkel lain hanya untuk menanyakan harga, ketersediaan sparepart, atau estimasi waktu servis.
 
