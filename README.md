@@ -252,12 +252,184 @@ dependencies:
 
 ## 📸 Screenshots
 
-> **Lihat panduan lengkap screenshot di**: [docs/SCREENSHOT_GUIDE.md](docs/SCREENSHOT_GUIDE.md)
+### **User Interface**
 
-Screenshots tersimpan di folder: `docs/screenshots/`
+<table>
+  <tr>
+    <td align="center">
+      <img src="docs/screenshots/01_splash_screen.png" width="250px"/><br/>
+      <sub><b>Splash Screen</b></sub><br/>
+      <sub>Logo branding Bengkel Pakistunes</sub>
+    </td>
+    <td align="center">
+      <img src="docs/screenshots/02_login_screen.png" width="250px"/><br/>
+      <sub><b>Login Screen</b></sub><br/>
+      <sub>Email & Password authentication</sub>
+    </td>
+    <td align="center">
+      <img src="docs/screenshots/04_home_screen.png" width="250px"/><br/>
+      <sub><b>Home Screen</b></sub><br/>
+      <sub>Banner promo & product catalog</sub>
+    </td>
+  </tr>
+</table>
 
+### **E-Commerce Features**
 
-### **Enable Firebase Services**
+<table>
+  <tr>
+    <td align="center">
+      <img src="docs/screenshots/05_product_list.png" width="250px"/><br/>
+      <sub><b>Product List</b></sub><br/>
+      <sub>Grid view dengan search & filter</sub>
+    </td>
+    <td align="center">
+      <img src="docs/screenshots/06_product_detail.png" width="250px"/><br/>
+      <sub><b>Product Detail</b></sub><br/>
+      <sub>Detail produk dengan stok & harga</sub>
+    </td>
+    <td align="center">
+      <img src="docs/screenshots/07_shopping_cart.png" width="250px"/><br/>
+      <sub><b>Shopping Cart</b></sub><br/>
+      <sub>Keranjang belanja dengan qty control</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="docs/screenshots/08_checkout_form.png" width="250px"/><br/>
+      <sub><b>Checkout</b></sub><br/>
+      <sub>Form checkout dengan alamat</sub>
+    </td>
+    <td align="center">
+      <img src="docs/screenshots/11_order_history.png" width="250px"/><br/>
+      <sub><b>Order History</b></sub><br/>
+      <sub>Riwayat pesanan dengan filter status</sub>
+    </td>
+    <td align="center">
+      <img src="docs/screenshots/19_wishlist.png" width="250px"/><br/>
+      <sub><b>Wishlist</b></sub><br/>
+      <sub>Daftar produk favorit</sub>
+    </td>
+  </tr>
+</table>
+
+### **Service Booking**
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="docs/screenshots/14_service_list.png" width="250px"/><br/>
+      <sub><b>Service List</b></sub><br/>
+      <sub>Pilihan layanan service motor</sub>
+    </td>
+    <td align="center">
+      <img src="docs/screenshots/15_booking_date.png" width="250px"/><br/>
+      <sub><b>Date Selection</b></sub><br/>
+      <sub>Calendar untuk pilih tanggal booking</sub>
+    </td>
+    <td align="center">
+      <img src="docs/screenshots/16_booking_timeslot.png" width="250px"/><br/>
+      <sub><b>Time Slot</b></sub><br/>
+      <sub>Pilih jam booking (08:00-17:00)</sub>
+    </td>
+  </tr>
+</table>
+
+### **Profile & Settings**
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="docs/screenshots/22_profile_screen.png" width="250px"/><br/>
+      <sub><b>Profile</b></sub><br/>
+      <sub>User profile dengan menu</sub>
+    </td>
+    <td align="center">
+      <img src="docs/screenshots/24_address_list.png" width="250px"/><br/>
+      <sub><b>Address Management</b></sub><br/>
+      <sub>Kelola alamat pengiriman</sub>
+    </td>
+    <td align="center">
+      <img src="docs/screenshots/26_notifications.png" width="250px"/><br/>
+      <sub><b>Notifications</b></sub><br/>
+      <sub>Notifikasi order & booking</sub>
+    </td>
+  </tr>
+</table>
+
+### **Admin Dashboard**
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="docs/screenshots/27_admin_dashboard.png" width="250px"/><br/>
+      <sub><b>Admin Dashboard</b></sub><br/>
+      <sub>Statistics & overview</sub>
+    </td>
+    <td align="center">
+      <img src="docs/screenshots/29_manage_products.png" width="250px"/><br/>
+      <sub><b>Manage Products</b></sub><br/>
+      <sub>CRUD produk dengan search</sub>
+    </td>
+    <td align="center">
+      <img src="docs/screenshots/30_add_product.png" width="250px"/><br/>
+      <sub><b>Add Product</b></sub><br/>
+      <sub>Form tambah produk dengan URL image</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="docs/screenshots/37_manage_bookings.png" width="250px"/><br/>
+      <sub><b>Manage Bookings</b></sub><br/>
+      <sub>Kelola semua booking service</sub>
+    </td>
+    <td align="center">
+      <img src="docs/screenshots/40_manage_services.png" width="250px"/><br/>
+      <sub><b>Manage Services</b></sub><br/>
+      <sub>CRUD layanan service</sub>
+    </td>
+    <td align="center">
+      <img src="docs/screenshots/41_add_service.png" width="250px"/><br/>
+      <sub><b>Add Service</b></sub><br/>
+      <sub>Form tambah service baru</sub>
+    </td>
+  </tr>
+</table>
+
+### **Firebase Integration**
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="docs/screenshots/43_firebase_authentication.png" width="350px"/><br/>
+      <sub><b>Firebase Authentication</b></sub><br/>
+      <sub>User management dengan Email/Password</sub>
+    </td>
+    <td align="center">
+      <img src="docs/screenshots/45_firestore_collections.png" width="350px"/><br/>
+      <sub><b>Firestore Collections</b></sub><br/>
+      <sub>Database structure: users, products, orders, bookings</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="docs/screenshots/47_firestore_products.png" width="350px"/><br/>
+      <sub><b>Products Collection</b></sub><br/>
+      <sub>Real-time product data dengan stock management</sub>
+    </td>
+    <td align="center">
+      <img src="docs/screenshots/51_hosting_dashboard.png" width="350px"/><br/>
+      <sub><b>Firebase Hosting</b></sub><br/>
+      <sub>Web deployment: https://bengkels.web.app</sub>
+    </td>
+  </tr>
+</table>
+
+> **🎤 Panduan Presentasi (25 Slides)**: [docs/PRESENTASI.md](docs/PRESENTASI.md)
+
+---
+
+## 🚀 Installation
 - ✅ Authentication (Email/Password)
 - ✅ Firestore Database
 - ✅ Firebase Storage

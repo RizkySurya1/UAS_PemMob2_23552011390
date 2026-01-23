@@ -1,9 +1,10 @@
-# 📊 PANDUAN PRESENTASI - Bengkel Pakistunes
+# 📊 PRESENTASI - Bengkel Pakistunes
 
 **Mobile Workshop Management System**  
 **UAS Pemrograman Mobile 2 - 23552011390**  
 **Mahasiswa:** Rizky Surya  
-**Demo:** https://bengkels.web.app
+**Demo:** https://bengkels.web.app  
+**GitHub:** https://github.com/RizkySurya1/UAS_PemMob2_23552011390
 
 ---
 
@@ -30,7 +31,19 @@
 - Booking system untuk service motor
 
 #### **Slide 3: Solution Overview**
-**Screenshots:** `04_home_screen.png` + `27_admin_dashboard.png`
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="screenshots/04_home_screen.png" width="300px"/><br/>
+      <sub><b>User Interface</b></sub>
+    </td>
+    <td align="center">
+      <img src="screenshots/27_admin_dashboard.png" width="300px"/><br/>
+      <sub><b>Admin Dashboard</b></sub>
+    </td>
+  </tr>
+</table>
 
 **Solusi yang Ditawarkan:**
 - ✅ E-commerce platform untuk spare parts
@@ -44,7 +57,19 @@
 ### **SECTION 2: USER FEATURES (8 Slides)**
 
 #### **Slide 4: Authentication System**
-**Screenshots:** `02_login_screen.png` + `03_register_screen.png`
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="screenshots/02_login_screen.png" width="300px"/><br/>
+      <sub><b>Login Screen</b></sub>
+    </td>
+    <td align="center">
+      <img src="screenshots/03_register_screen.png" width="300px"/><br/>
+      <sub><b>Register Screen</b></sub>
+    </td>
+  </tr>
+</table>
 
 **Features:**
 - Email/Password authentication (Firebase Auth)
@@ -53,7 +78,19 @@
 - Custom logo branding
 
 #### **Slide 5: Product Catalog & Home**
-**Screenshots:** `04_home_screen.png` + `05_product_list.png`
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="screenshots/04_home_screen.png" width="300px"/><br/>
+      <sub><b>Home Screen</b></sub>
+    </td>
+    <td align="center">
+      <img src="screenshots/05_product_list.png" width="300px"/><br/>
+      <sub><b>Product List</b></sub>
+    </td>
+  </tr>
+</table>
 
 **Features:**
 - Custom banner promo
@@ -62,7 +99,19 @@
 - Grid view dengan stock indicator
 
 #### **Slide 6: Product Detail & Shopping Cart**
-**Screenshots:** `06_product_detail.png` + `07_shopping_cart.png`
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="screenshots/06_product_detail.png" width="300px"/><br/>
+      <sub><b>Product Detail</b></sub>
+    </td>
+    <td align="center">
+      <img src="screenshots/07_shopping_cart.png" width="300px"/><br/>
+      <sub><b>Shopping Cart</b></sub>
+    </td>
+  </tr>
+</table>
 
 **Features:**
 - Product detail dengan stock real-time
@@ -71,7 +120,19 @@
 - Price calculation otomatis
 
 #### **Slide 7: Checkout & Payment**
-**Screenshots:** `08_checkout_form.png` + `10_order_success.png`
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="screenshots/08_checkout_form.png" width="300px"/><br/>
+      <sub><b>Checkout Form</b></sub>
+    </td>
+    <td align="center">
+      <img src="screenshots/10_order_success.png" width="300px"/><br/>
+      <sub><b>Order Success</b></sub>
+    </td>
+  </tr>
+</table>
 
 **Features:**
 - Address selection (multiple addresses support)
@@ -80,7 +141,19 @@
 - Order confirmation
 
 #### **Slide 8: Order Management**
-**Screenshots:** `11_order_history.png` + `12_order_detail.png`
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="screenshots/11_order_history.png" width="300px"/><br/>
+      <sub><b>Order History</b></sub>
+    </td>
+    <td align="center">
+      <img src="screenshots/12_order_detail.png" width="300px"/><br/>
+      <sub><b>Order Detail</b></sub>
+    </td>
+  </tr>
+</table>
 
 **Features:**
 - Order history dengan filter status
@@ -90,7 +163,19 @@
 - Cancel order (jika pending)
 
 #### **Slide 9: Service Booking System**
-**Screenshots:** `14_service_list.png` + `16_booking_timeslot.png`
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="screenshots/14_service_list.png" width="300px"/><br/>
+      <sub><b>Service List</b></sub>
+    </td>
+    <td align="center">
+      <img src="screenshots/16_booking_timeslot.png" width="300px"/><br/>
+      <sub><b>Time Slot Selection</b></sub>
+    </td>
+  </tr>
+</table>
 
 **Features:**
 - 5 Service options (Ganti Oli, Service Rutin, Tune Up, Repair, Modifikasi)
@@ -100,7 +185,15 @@
 - Booking validation (jam kerja only)
 
 #### **Slide 10: Wishlist & Reviews**
-**Screenshots:** `19_wishlist.png` + `20_product_reviews.png`
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="screenshots/19_wishlist.png" width="300px"/><br/>
+      <sub><b>Wishlist</b></sub>
+    </td>
+  </tr>
+</table>
 
 **Features:**
 - Add/remove favorite products
@@ -109,7 +202,19 @@
 - Review timestamp
 
 #### **Slide 11: Profile & Settings**
-**Screenshots:** `22_profile_screen.png` + `24_address_list.png`
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="screenshots/22_profile_screen.png" width="300px"/><br/>
+      <sub><b>Profile Screen</b></sub>
+    </td>
+    <td align="center">
+      <img src="screenshots/24_address_list.png" width="300px"/><br/>
+      <sub><b>Address Management</b></sub>
+    </td>
+  </tr>
+</table>
 
 **Features:**
 - Profile management (nama, email, phone)
@@ -123,7 +228,19 @@
 ### **SECTION 3: ADMIN FEATURES (5 Slides)**
 
 #### **Slide 12: Admin Dashboard**
-**Screenshots:** `27_admin_dashboard.png` + `28_admin_menu.png`
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="screenshots/27_admin_dashboard.png" width="300px"/><br/>
+      <sub><b>Dashboard Overview</b></sub>
+    </td>
+    <td align="center">
+      <img src="screenshots/28_admin_menu.png" width="300px"/><br/>
+      <sub><b>Admin Menu</b></sub>
+    </td>
+  </tr>
+</table>
 
 **Features:**
 - Statistics overview (Total Orders, Bookings, Revenue)
@@ -132,7 +249,19 @@
 - Admin navigation drawer
 
 #### **Slide 13: Product Management**
-**Screenshots:** `29_manage_products.png` + `30_add_product.png`
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="screenshots/29_manage_products.png" width="300px"/><br/>
+      <sub><b>Product List</b></sub>
+    </td>
+    <td align="center">
+      <img src="screenshots/30_add_product.png" width="300px"/><br/>
+      <sub><b>Add Product (URL-based)</b></sub>
+    </td>
+  </tr>
+</table>
 
 **Features:**
 - CRUD operations untuk produk
@@ -154,7 +283,19 @@
 - Order items detail
 
 #### **Slide 15: Booking Management**
-**Screenshots:** `37_manage_bookings.png` + `39_update_booking_status.png`
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="screenshots/37_manage_bookings.png" width="300px"/><br/>
+      <sub><b>Booking List</b></sub>
+    </td>
+    <td align="center">
+      <img src="screenshots/39_update_booking_status.png" width="300px"/><br/>
+      <sub><b>Update Status</b></sub>
+    </td>
+  </tr>
+</table>
 
 **Features:**
 - View all bookings dengan date & time
@@ -164,7 +305,19 @@
 - **Jam kerja validation** (08:00-17:00)
 
 #### **Slide 16: Service Management**
-**Screenshots:** `40_manage_services.png` + `41_add_service.png`
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="screenshots/40_manage_services.png" width="300px"/><br/>
+      <sub><b>Service List</b></sub>
+    </td>
+    <td align="center">
+      <img src="screenshots/41_add_service.png" width="300px"/><br/>
+      <sub><b>Add Service</b></sub>
+    </td>
+  </tr>
+</table>
 
 **Features:**
 - CRUD services
@@ -208,7 +361,19 @@ Development Tools:
 ```
 
 #### **Slide 18: Firebase Authentication**
-**Screenshots:** `43_firebase_authentication.png` + `44_firebase_auth_methods.png`
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="screenshots/43_firebase_authentication.png" width="400px"/><br/>
+      <sub><b>User Management</b></sub>
+    </td>
+    <td align="center">
+      <img src="screenshots/44_firebase_auth_methods.png" width="400px"/><br/>
+      <sub><b>Auth Methods</b></sub>
+    </td>
+  </tr>
+</table>
 
 **Implementation:**
 - Email/Password provider enabled
@@ -229,7 +394,19 @@ users/{userId} {
 ```
 
 #### **Slide 19: Firestore Database Structure**
-**Screenshots:** `45_firestore_collections.png` + `46_firestore_users.png`
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="screenshots/45_firestore_collections.png" width="400px"/><br/>
+      <sub><b>Collections Overview</b></sub>
+    </td>
+    <td align="center">
+      <img src="screenshots/46_firestore_users.png" width="400px"/><br/>
+      <sub><b>Users Collection</b></sub>
+    </td>
+  </tr>
+</table>
 
 **Collections:**
 ```
@@ -251,7 +428,19 @@ firestore/
 - Security rules implementation
 
 #### **Slide 20: Firestore Data Models**
-**Screenshots:** `47_firestore_products.png` + `48_firestore_orders.png`
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="screenshots/47_firestore_products.png" width="400px"/><br/>
+      <sub><b>Products Collection</b></sub>
+    </td>
+    <td align="center">
+      <img src="screenshots/48_firestore_orders.png" width="400px"/><br/>
+      <sub><b>Orders Collection</b></sub>
+    </td>
+  </tr>
+</table>
 
 **Product Model:**
 ```dart
@@ -283,7 +472,19 @@ firestore/
 ```
 
 #### **Slide 21: Firebase Hosting Deployment**
-**Screenshots:** `51_hosting_dashboard.png` + `52_hosting_usage.png`
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="screenshots/51_hosting_dashboard.png" width="400px"/><br/>
+      <sub><b>Hosting Dashboard</b></sub>
+    </td>
+    <td align="center">
+      <img src="screenshots/52_hosting_usage.png" width="400px"/><br/>
+      <sub><b>Usage Statistics</b></sub>
+    </td>
+  </tr>
+</table>
 
 **Deployment Details:**
 - **URL:** https://bengkels.web.app
@@ -410,8 +611,8 @@ Live Demo:
 https://bengkels.web.app
 
 Documentation:
-README.md (790+ lines)
-SCREENSHOT_GUIDE.md (Full guide)
+README.md (Full documentation)
+PRESENTASI.md (Presentation guide)
 ```
 
 **Questions?**
