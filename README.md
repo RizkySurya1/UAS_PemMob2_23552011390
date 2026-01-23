@@ -11,15 +11,76 @@ Aplikasi mobile lengkap untuk manajemen bengkel motor dengan fitur e-commerce, b
 - **Web App**: [https://bengkels.web.app](https://bengkels.web.app)
 - **APK Download**: `build/app/outputs/flutter-apk/app-release.apk`
 
+---
+
 ## 🎯 Overview
 
 Bengkel Pakistunes adalah aplikasi all-in-one untuk bengkel motor yang menggabungkan:
 - 🛒 E-commerce untuk pembelian sparepart
-- 📅 Sistem booking service motor
-- 💳 Payment confirmation system
+- 📅 Sistem booking service motors
 - ⭐ Review & rating system
 - 👤 User profile management
 - 🔧 Admin dashboard
+
+## 📖 Latar Belakang
+
+### **Permasalahan yang Dihadapi**
+
+Di era digital saat ini, banyak bengkel motor masih menggunakan sistem manual dalam operasional sehari-hari. Hal ini menimbulkan berbagai kendala:
+
+- 📱 Kesulitan mengecek ketersediaan sparepart dan harga
+- ⏰ Harus datang langsung ke bengkel untuk booking service
+- 🔍 Tidak ada informasi real-time tentang status perbaikan motor
+- 💰 Proses pembelian sparepart yang tidak praktis
+- ❓ Tidak ada platform untuk review dan rating layanan
+
+### **Mengapa Aplikasi Ini Dibuat?**
+
+**Bengkel Pakistunes** dikembangkan sebagai solusi digitalisasi untuk menjawab kebutuhan modern bengkel motor dan customernya. Aplikasi ini dibuat dengan tujuan:
+
+**🎯 Tujuan Utama:**
+1. **Meningkatkan Efisiensi Operasional**
+   - Otomasi proses booking dan order management
+   - Real-time tracking stok dan status pesanan
+   - Mengurangi kesalahan manual dalam pencatatan
+
+2. **Meningkatkan Customer Experience**
+   - Kemudahan akses informasi produk dan layanan 24/7
+   - Sistem booking yang fleksibel dengan time slot
+   - Transparansi harga dan ketersediaan stok
+   - Platform review untuk meningkatkan kepercayaan
+
+3. **Digitalisasi Bengkel Tradisional**
+   - Transformasi dari sistem manual ke digital
+   - Memanfaatkan teknologi cloud (Firebase) untuk data real-time
+   - Multi-platform (Mobile + Web) untuk aksesibilitas maksimal
+
+
+### **Target Pengguna**
+
+**1. Customer (End User)**
+- Pemilik motor yang membutuhkan sparepart
+- Pengguna yang ingin service motor secara terencana
+- Komunitas otomotif yang aktif berbelanja online
+
+**2. Admin Bengkel**
+- Owner bengkel yang ingin digitalisasi bisnis
+- Staff bengkel untuk operasional harian
+- Manager untuk monitoring performa bisnis
+
+### **Dampak yang Diharapkan**
+
+**📊 Untuk Bengkel:**
+- Peningkatan efisiensi operasional
+- Pengurangan kesalahan pencatatan manual
+- Peningkatan customer satisfaction
+- Data-driven decision making
+
+**🎯 Untuk Customer:**
+- Hemat waktu (tidak perlu datang langsung)
+- Transparansi harga dan ketersediaan
+- Kemudahan tracking order dan booking
+- Platform review yang terpercaya
 
 ---
 
@@ -447,8 +508,8 @@ Role: admin
 
 ### **User Account (Test)**
 ```
-Email: test@test.com
-Password: test123
+Email: user@test.com
+Password: user123
 Role: user
 ```
 
