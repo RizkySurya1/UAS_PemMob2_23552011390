@@ -2,7 +2,7 @@
 
 **Mobile Workshop Management System**  
 **UAS Pemrograman Mobile 2 - 23552011390**  
-**Mahasiswa:** Rizky Surya  
+**Mahasiswa:** Rizky Surya Diputra
 **Demo:** https://bengkels.web.app  
 **GitHub:** https://github.com/RizkySurya1/UAS_PemMob2_23552011390
 
