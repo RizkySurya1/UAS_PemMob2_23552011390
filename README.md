@@ -447,8 +447,8 @@ Role: admin
 
 ### **User Account (Test)**
 ```
-Email: user@test.com
-Password: user123
+Email: test@test.com
+Password: test123
 Role: user
 ```
 
